@@ -1,5 +1,4 @@
-<img width="1080" height="1350" alt="Koda Annoucement" src="https://github.com/user-attachments/assets/23833a03-1a78-45b7-acd5-7b567604f8e5" />
-
+<img width="1920" height="1080" alt="Pytalon Annoucement" src="https://github.com/user-attachments/assets/1a3e416c-1a5f-4d53-badf-c3a1edbd2be2" />
 
 ![Python](https://img.shields.io/badge/Python-3.14.4-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -8,11 +7,11 @@
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen)
 
 
-# Koda Preview v1.0.3 🤖🐍
+# Pytalon Preview v1.0.3 🤖🐍
 
 ## 🌟 Overview
 
-Koda is an interactive, beginner-friendly console program designed to teach Python fundamentals in a simple, guided, and engaging way.
+Pytalon is an interactive, beginner-friendly console program designed to teach Python fundamentals in a simple, guided, and engaging way.
 
 Instead of learning from long theory or textbooks, this assistant behaves like a personal Python tutor. It talks with the user, asks what they want to learn, and explains each concept using real-life analogies, step-by-step guidance, and optional examples.
 
@@ -25,7 +24,7 @@ It is perfect for learners who want a friendly and interactive introduction to P
 If this assistant helped you learn Python, please consider giving it a star!
 It helps more learners discover this project.
 
-[![Star on GitHub](https://img.shields.io/github/stars/acubura/koda-assistant?style=flat&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/acubura/koda-assistant/stargazers)
+[![Star on GitHub](https://img.shields.io/github/stars/acubura/pytalon?style=flat&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/acubura/pytalon/stargazers)
 
 ---
 
@@ -85,7 +84,7 @@ The assistant now understands modern, casual slang and conversational responses!
 The codebase has been significantly restructured for clarity and maintainability:
 
 - **Professional Header:** Added a comprehensive header comment with creator info, version, and purpose.
-- **6 Clear Section Markers:** The code is now logically divided into distinct sections  (Intro & Setup, Input Validation, Helper Functions, Main Program & User Questions, Topics 1-6, Topics 7-12, and Ask to Learn Another Topic).
+- **6 Clear Section Markers:** The code is now logically divided into distinct sections (Intro & Setup, Input Validation, Helper Functions, Main Program & User Questions, Topics 1-6, Topics 7-12, and Ask to Learn Another Topic).
 - **Consistent Formatting:** All validation functions follow a clean, uniform pattern.
 
 > 🔎 **Code Readability Note:**  
@@ -148,13 +147,13 @@ These two topics are **mini-courses** inside the assistant:
 **1️⃣ Clone the repository**
 
 ```bash
-git clone https://github.com/acubura/koda-assistant.git
+git clone https://github.com/acubura/pytalon-assistant.git
 ```
 
 **2️⃣ Open the project folder**
 
 ```bash
-cd koda-assistant
+cd pytalon
 ```
 
 **3️⃣ Run the program**
@@ -229,7 +228,7 @@ Feel free to open an Issue or submit a Pull Request.
 ## 📜 License
 - This project is licensed under the MIT License.
 
-# 🌈 Final Note
+## 🌈 Final Note
 - Learning programming should feel exciting, not overwhelming.
 
 - This assistant was built to make your first steps in Python
