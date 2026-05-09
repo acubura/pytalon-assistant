@@ -1,8 +1,8 @@
-# 🛡️ Security Policy for Koda
+# 🛡️ Security Policy for Pytalon
 
 ## 🌟 Our Commitment to You
 
-Your safety matters. Koda is a learning tool — a friendly place to explore Python without worry.  
+Your safety matters. Pytalon is a learning tool — a friendly place to explore Python without worry.  
 We take security seriously so you can focus on coding with confidence.
 
 ---
@@ -16,14 +16,15 @@ This project is actively maintained for the latest stable release. Security upda
 | Latest release  | ✅        |
 | Older versions  | ❌        |
 
-If you are using an older version, please upgrade to the latest version before reporting security issues.  
-*(Keeping Koda up to date keeps you safe — and gives you the best learning experience!)*
+If you are using an older version, please upgrade to the latest version before reporting security issues. 
+
+*(Keeping Pytalon up to date keeps you safe — and gives you the best learning experience!)*
 
 ---
 
 ## 🔍 Reporting a Vulnerability
 
-If you discover a security vulnerability in **Koda**, thank you for helping us keep everyone safe.
+If you discover a security vulnerability in **Pytalon**, thank you for helping us keep everyone safe.
 
 ### 📩 How to Report
 
@@ -61,7 +62,8 @@ We'll credit you in the release notes — because you made it better.
 ## 🔒 Responsible Disclosure
 
 Please allow time for the vulnerability to be fixed before publicly disclosing it.  
-Responsible disclosure helps protect all learners and users of Koda.  
+Responsible disclosure helps protect all learners and users of Pytalon. 
+ 
 Thank you for your patience and integrity.
 
 ---
@@ -73,16 +75,16 @@ Examples include:
 - Code execution vulnerabilities  
 - Injection flaws  
 - Malicious input handling weaknesses  
-- Anything that could compromise a user’s system or data when running the program  
-
-Koda is a **local console-based learning tool**, so most risks would relate to unsafe input handling or malicious file execution.  
+- Anything that could compromise a user's system or data when running the program
+  
+Pytalon is a **local console-based learning tool**, so most risks would relate to unsafe input handling or malicious file execution.  
 Even if you're not sure — report it. We'd rather check and find nothing than miss something important.
 
 ---
 
 ## 💙 Thank You
 
-You're helping make Koda not just a great learning assistant, but a **safe** one.  
+You're helping make Pytalon not just a great learning assistant, but a **safe** one.  
 That matters. You matter.
 
 Happy (and safe) coding! 🐍✨
