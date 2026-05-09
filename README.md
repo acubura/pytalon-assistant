@@ -24,7 +24,7 @@ It is perfect for learners who want a friendly and interactive introduction to P
 If this assistant helped you learn Python, please consider giving it a star!
 It helps more learners discover this project.
 
-[![Star on GitHub](https://img.shields.io/github/stars/acubura/pytalon?style=flat&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/acubura/pytalon/stargazers)
+[![Star on GitHub](https://img.shields.io/github/stars/acubura/pytalon-assistant?style=flat&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/acubura/pytalon-assistant/stargazers)
 
 ---
 
@@ -153,7 +153,7 @@ git clone https://github.com/acubura/pytalon-assistant.git
 **2️⃣ Open the project folder**
 
 ```bash
-cd pytalon
+cd pytalon-assistant
 ```
 
 **3️⃣ Run the program**
