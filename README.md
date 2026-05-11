@@ -114,6 +114,11 @@ If you encounter:
 **Please report the bug immediately.**  
 Your detailed reports help us ensure the assistant is stable, reliable, and helpful for all learners.
 
+## 🚨 **Important Note for Everyone**
+
+- A **major UX bug** — alongside our most critical fix yet — is coming in the next major preview. **Stay tuned!**
+- We just discovered an error in our clone commands and **fixed it immediately**. We sincerely apologize for the inconvenience.
+
 ---
 
 ## 📘 Topics Covered
@@ -147,7 +152,7 @@ These two topics are **mini-courses** inside the assistant:
 **1️⃣ Clone the repository**
 
 ```bash
-git clone https://github.com/acubura/pytalon-assistant.git
+git clone https://github.com/Vexqyn/pytalon-assistant.git
 ```
 
 **2️⃣ Open the project folder**
